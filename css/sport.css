@@ -1,0 +1,16 @@
+.accordion-title {
+    font-size: 20px;
+    color: rgb(13,92,138);
+}
+
+
+
+.accordion-item {
+    border-color: rgb(255,166,38);
+}
+
+
+
+body {
+    background-color: #FEFEFE;
+}

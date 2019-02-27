@@ -1,0 +1,71 @@
+.hero{
+  background-color: rgb(255,166,38);
+}
+
+.footer{
+  margin-top: 20px;
+  background-color: rgb(13,92,138);
+  width: 100%;
+  padding: 30px;
+}
+
+.pageSection{
+  background-color: rgb(255,166,38);
+  text-align: center;
+}
+
+.sectionTitle {
+  font-weight: bold;
+  color: rgb(13,92,138);
+}
+
+.title-bar{
+  background-color: rgb(13,92,138);
+  color: rgb(255,166,38);
+  position: fixed;
+  z-index: 1000;
+  width: 100%;
+  top: 0;
+}
+
+.top-bar{
+  width: 100%;
+  position: fixed;
+  z-index: 1000;
+}
+
+.centeredImage{
+  text-align: center;
+  padding: 2em;
+
+}
+
+.firstPageElement{
+  margin-bottom: 20px;
+}
+
+.docs-example-orbit-slide{
+  color: rgb(255,166,38);
+}
+
+.socialNetwork{
+  text-align: right;
+  margin: 0;
+}
+
+.adress{
+  text-align: left;
+  padding: auto;
+  margin: auto 0;
+  color: rgb(255,166,38);
+}
+
+.socialNetworkLogo{
+  margin: 30px 5% 30px 5%;
+  height: 40px;
+  width: 40px;
+}
+
+.logoPartOrbit{
+  margin: auto;
+}
